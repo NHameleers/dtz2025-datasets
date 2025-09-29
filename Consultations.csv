@@ -1,0 +1,10 @@
+PatientId;Date;ContactType;ComplaintCode
+1;2-4-2025;Regular Consultation;R95
+2;2-4-2025;Regular Consultation;R96
+3;12-4-2025;Home Visit;T90.02
+3;15-4-2025;Home Visit;T90.02
+3;18-4-2025;Telephone Consultation;T93
+4;2-4-2025;Regular Consultation;K86
+4;24-4-2025;Home Visit;T90.02
+4;27-4-2025;Telephone Consultation;T90.02
+4;30-4-2025;Home Visit;R96
